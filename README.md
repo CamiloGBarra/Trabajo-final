@@ -13,4 +13,16 @@
 Es necesario aclarar que todos los puntos y objetivos solicitados se encuentran desarrollados en la notebook alternando entre celdas de código python y celdas de Markdown con texto e imágenes.  
 Las imágenes que se fueron obteniendo durante el trabajo (índices e histogramas) se almacenaron en la carpeta 4 (**imagenes resultados**) sin un comando establecido, sino con la opción para exportar que ofrece el archivo .ipynb.
 
+El flujo de trabajo puede visualizarse en Visual Studio Code con la extensión "Git Graph", pero se eligió mostrar una versión más rudimentaria obtenida desde el bash con el comando: 
+> git log --graph --decorate --oneline --all
+
+En donde se obtuvo, el Id del commit, el branch (en este caso el único creado por defecto, "main"), la ubicación del Head y el mensaje de cada commit:
+ 
+* 0d51a06 (HEAD -> main, origin/main) nuevo README.md
+* 26c66d9 adjunto imagenes
+* 0291466 modificacion
+* 0bcea3c actualizacion README.md
+* 06cd40b Create README.md
+* a44fea4 primer commit
+
 Ante cualquier duda o consulta, puede escribir al correo cbarra@conae.gov.ar
