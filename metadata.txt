@@ -1,0 +1,99 @@
+Archivo: 2023-03-11.QA_PIXEL.tif
+formato_del_archivo: GTiff
+tipo_de_dato: uint16
+ancho: 298
+alto: 406
+cantidad_de_bandas: 1
+sistema_de_referencia: EPSG:32620
+limites: BoundingBox(left=350325.0, bottom=-3529155.0, right=359265.0, top=-3516975.0)
+resolucion: (30.0, 30.0)
+no data: 0.0
+
+Archivo: 2023-03-11.SR_B1.tif
+formato_del_archivo: GTiff
+tipo_de_dato: uint16
+ancho: 298
+alto: 406
+cantidad_de_bandas: 1
+sistema_de_referencia: EPSG:32620
+limites: BoundingBox(left=350325.0, bottom=-3529155.0, right=359265.0, top=-3516975.0)
+resolucion: (30.0, 30.0)
+no data: 0.0
+
+Archivo: 2023-03-11.SR_B2.tif
+formato_del_archivo: GTiff
+tipo_de_dato: uint16
+ancho: 298
+alto: 406
+cantidad_de_bandas: 1
+sistema_de_referencia: EPSG:32620
+limites: BoundingBox(left=350325.0, bottom=-3529155.0, right=359265.0, top=-3516975.0)
+resolucion: (30.0, 30.0)
+no data: 0.0
+
+Archivo: 2023-03-11.SR_B3.tif
+formato_del_archivo: GTiff
+tipo_de_dato: uint16
+ancho: 298
+alto: 406
+cantidad_de_bandas: 1
+sistema_de_referencia: EPSG:32620
+limites: BoundingBox(left=350325.0, bottom=-3529155.0, right=359265.0, top=-3516975.0)
+resolucion: (30.0, 30.0)
+no data: 0.0
+
+Archivo: 2023-03-11.SR_B4.tif
+formato_del_archivo: GTiff
+tipo_de_dato: uint16
+ancho: 298
+alto: 406
+cantidad_de_bandas: 1
+sistema_de_referencia: EPSG:32620
+limites: BoundingBox(left=350325.0, bottom=-3529155.0, right=359265.0, top=-3516975.0)
+resolucion: (30.0, 30.0)
+no data: 0.0
+
+Archivo: 2023-03-11.SR_B5.tif
+formato_del_archivo: GTiff
+tipo_de_dato: uint16
+ancho: 298
+alto: 406
+cantidad_de_bandas: 1
+sistema_de_referencia: EPSG:32620
+limites: BoundingBox(left=350325.0, bottom=-3529155.0, right=359265.0, top=-3516975.0)
+resolucion: (30.0, 30.0)
+no data: 0.0
+
+Archivo: 2023-03-11.SR_B6.tif
+formato_del_archivo: GTiff
+tipo_de_dato: uint16
+ancho: 298
+alto: 406
+cantidad_de_bandas: 1
+sistema_de_referencia: EPSG:32620
+limites: BoundingBox(left=350325.0, bottom=-3529155.0, right=359265.0, top=-3516975.0)
+resolucion: (30.0, 30.0)
+no data: 0.0
+
+Archivo: 2023-03-11.SR_B7.tif
+formato_del_archivo: GTiff
+tipo_de_dato: uint16
+ancho: 298
+alto: 406
+cantidad_de_bandas: 1
+sistema_de_referencia: EPSG:32620
+limites: BoundingBox(left=350325.0, bottom=-3529155.0, right=359265.0, top=-3516975.0)
+resolucion: (30.0, 30.0)
+no data: 0.0
+
+Archivo: 2023-03-11.ST_B10.tif
+formato_del_archivo: GTiff
+tipo_de_dato: uint16
+ancho: 298
+alto: 406
+cantidad_de_bandas: 1
+sistema_de_referencia: EPSG:32620
+limites: BoundingBox(left=350325.0, bottom=-3529155.0, right=359265.0, top=-3516975.0)
+resolucion: (30.0, 30.0)
+no data: 0.0
+
