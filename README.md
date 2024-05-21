@@ -18,17 +18,17 @@ El flujo de trabajo puede visualizarse en Visual Studio Code con la extensión "
 
 En donde se obtuvo, el Id del commit, el branch (en este caso el único creado por defecto, "main"), la ubicación del Head y el mensaje de cada commit:
  
-e21ae5e (HEAD -> main, origin/main) agrego outliers
-3e6e7a3 actualizo el arbol
-767079f modifico el texto
-4381212 modifico texto
-1625dff nuevo commit
-3cdc0e4 renuevo README.md
-0d51a06 nuevo README.md
-26c66d9 adjunto imagenes
-0291466 modificacion
-0bcea3c actualizacion README.md
-06cd40b Create README.md
-a44fea4 primer commit
+e21ae5e (HEAD -> main, origin/main) agrego outliers  
+3e6e7a3 actualizo el arbol  
+767079f modifico el texto  
+4381212 modifico texto  
+1625dff nuevo commit  
+3cdc0e4 renuevo README.md  
+0d51a06 nuevo README.md  
+26c66d9 adjunto imagenes  
+0291466 modificacion  
+0bcea3c actualizacion README.md  
+06cd40b Create README.md  
+a44fea4 primer commit  
 
 Ante cualquier duda o consulta, puede escribir al correo cbarra@conae.gov.ar
