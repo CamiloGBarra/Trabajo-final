@@ -1,5 +1,11 @@
 ## Bienvenido/a a la entrega final para la materia **Introducción a las técnicas inteligentes de resolución de problemas de planificación, secuenciación y ejecución**
 
+##
+
+![rgb](https://github.com/CamiloGBarra/trabajo_final_planning_2024/blob/main/imagenes%20resultados/color_natural.png)
+
+##
+
 ### El repositorio consta de los siguientes archivos y carpetas:
 1. Carpeta **"Scripts Python"**: en ella encontrará el script completo separado por partes para mayor organización, que es como se comenzó a trabajar en un inicio.
 2. Carpeta **anexos**: contiene las imágenes que luego son llamadas en Markdown.
