@@ -42,7 +42,7 @@ En donde se obtuvo, el Id del commit, el branch (en este caso el único creado p
   
 ##
 
-![arbol](https://github.com/CamiloGBarra/trabajo_final_planning_2024/blob/main/anexos/arbol.png)
+![arbol](https://github.com/CamiloGBarra/trabajo_final_planning_2024/blob/main/anexos/arbol_final.png)
 
 ##
 Ante cualquier duda o consulta, puede escribir al correo cbarra@conae.gov.ar
