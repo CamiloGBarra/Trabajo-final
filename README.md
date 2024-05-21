@@ -31,6 +31,4 @@ e21ae5e (HEAD -> main, origin/main) agrego outliers
 06cd40b Create README.md
 a44fea4 primer commit
 
-![arbol](.\anexos\arbol.png)
-
 Ante cualquier duda o consulta, puede escribir al correo cbarra@conae.gov.ar
