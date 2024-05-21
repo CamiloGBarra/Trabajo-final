@@ -18,7 +18,11 @@ El flujo de trabajo puede visualizarse en Visual Studio Code con la extensión "
 
 En donde se obtuvo, el Id del commit, el branch (en este caso el único creado por defecto, "main"), la ubicación del Head y el mensaje de cada commit:
  
-* 0d51a06 (HEAD -> main, origin/main) nuevo README.md
+* 767079f (HEAD -> main, origin/main) modifico el texto
+* 4381212 modifico texto
+* 1625dff nuevo commit
+* 3cdc0e4 renuevo README.md
+* 0d51a06 nuevo README.md
 * 26c66d9 adjunto imagenes
 * 0291466 modificacion
 * 0bcea3c actualizacion README.md
